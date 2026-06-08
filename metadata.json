@@ -1,0 +1,6 @@
+{
+  "name": "The Print Job",
+  "description": "Custom apparel, sportswear, school uniforms, and personalized merchandise printing in Prayagraj.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
